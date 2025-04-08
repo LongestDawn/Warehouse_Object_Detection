@@ -11,7 +11,7 @@ def make_dirs(paths):
         #Create each directory in list.
         path.mkdir(parents=True, exist_ok=True)
 
-#Split a list of image paths into training and validation sets (This is to be based on a ratio)
+#Splits a list of image paths into training and validation sets (This is to be based on a ratio)
 def split_dataset(image_paths, train_ratio):
     random.shuffle(image_paths) #This randomizes the image list
     train_count = int(len(image_paths) * train_ratio) #This calculates the number of training images
