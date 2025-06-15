@@ -56,6 +56,11 @@ For this Product to work on your local machine, please do the following carefull
 
 12. Press Q to stop
 
+If working correctly, you should be able to see a window pop up on your screen with something that looks like this:
+
+![Capture 2](https://github.com/user-attachments/assets/e4d82194-66fb-47d4-97a0-f67a8593e2d8)
+
+
 13. Look at the results in the screenshot folder and the detection log that the script has created for you.
 
 14. If you wish to create your dataset to detect objects, please feel free to use my Google Colab: https://colab.research.google.com/drive/1KgAB4_tp5Avyte6AFDP6x_geU0H9h6rC?usp=sharing
