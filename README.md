@@ -58,5 +58,10 @@ For this Product to work on your local machine, please do the following carefull
 
 13. Look at the results in the screenshot folder and the detection log that the script has created for you.
 
+14. If you wish to create your dataset to detect objects, please feel free to use my Google Colab: https://colab.research.google.com/drive/1KgAB4_tp5Avyte6AFDP6x_geU0H9h6rC?usp=sharing
+    It has instructions on there on how to make your dataset, labels, and train your customized model.
+
+15. To use your own trained model, you can either use the same Python script in this Repo and follow the steps above.
+
 
 
