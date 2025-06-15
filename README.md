@@ -1,3 +1,7 @@
+This is a University Project designed for a small-scale warehouse.
+
+Using the YOLO object detection model, the Python script used is an early iteration of an embodied learning function, allowing the program to eventually learn from its interactions.
+
 For this Product to work on your local machine, please do the following carefully: 
 
 1. Make sure that the zip file is extracted to somewhere easily accessible
