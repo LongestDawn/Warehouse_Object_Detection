@@ -6,7 +6,7 @@ The dataset was curated by using free license images found on several free licen
 
 For this Product to work on your local machine, please do the following carefully: 
 
-1. Make sure that the zip file is extracted to somewhere easily accessible
+1. Make sure that the Warehouse_Script_Updated.py and the Warehouse_Model.pt have been downloaded and saved in the same folder correctly.
 
 2. Download Anaconda Prompt. Here is a link to use: https://www.anaconda.com/download/success
 
